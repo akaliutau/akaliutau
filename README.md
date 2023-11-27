@@ -7,7 +7,9 @@
 
 ---
 
-I have an advanced degree in Physics and Computer Science. My journey to become a Software Engineer started as an interest to Computational Physics during my University years and aspects of passion grew around the years of studying. Now interest to Computer Science has become almost a part of my personality and currently studying is part of my daily routine, everyday life.
+I have an advanced degree in Physics and Computer Science. 
+
+My journey to become a Software Engineer started as an interest to Computational Physics during my University years and aspects of passion grew around the years of studying. Now interest to Computer Science has become almost a part of my personality and currently studying is part of my daily routine, everyday life.
 
 I know half a dozen programming languages (among them all the major ones - Java, JavaScript and Python) and am very into all technical stuff, from functional programming languages till system design.
 
