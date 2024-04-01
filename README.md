@@ -7,13 +7,12 @@
 
 ---
 
-I have an advanced degree in Physics and Computer Science. 
+My journey to becoming a Software Engineer began with an interest in Computational Physics during my university years, and my passion has grown throughout my studies. Now, my interest in Computer Science has become an integral part of my personality—studying, learning new technologies, and even creating new ones along the way, is part of my daily routine and everyday life.
 
-My journey to become a Software Engineer started as an interest to Computational Physics during my University years and aspects of passion grew around the years of studying. 
-Now interest to Computer Science has become almost a part of my personality - studying something, learning new technologies (and creating new ones on the way!) is part of my daily routine, everyday life.
+I am proficient in half a dozen programming languages, including all the major ones like Java, JavaScript, and Python, and I have a keen interest in all things technical, from functional programming languages to system design. As technology continues to evolve, I am committed to staying at the forefront of these fields, continuously exploring new paradigms and contributing to the advancement of the ever-changing software engineering landscape.
 
-I know half a dozen programming languages (among them all the major ones - Java, JavaScript and Python) and am very into all technical stuff, from functional programming languages till system design.
+Currently, my interests lie in large-scale distributed systems, Big Data, and ML/AI.
 
-Currently my interests include large-scale distributed systems, Big Data and ML/AI
+
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=akaliutau&langs_count=4&theme=tokyonight&hide=css,c%2B%2B,TypeScript,Makefile,HTML)]()
