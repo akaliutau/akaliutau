@@ -7,11 +7,11 @@
 
 ---
 
-My journey to becoming a Software Engineer began with an interest in Computational Physics during my university years, and my passion has grown throughout my studies. Now, my interest in Computer Science has become an integral part of my personality — studying, learning new technologies, and even creating new ones along the way, is part of my daily routine and everyday life.
+My journey to becoming a Software Engineer began with an interest in Computational Physics during my university years, and my passion has grown throughout my studies. Today my interest in Computer Science has become an integral part of my personality — studying, learning new technologies, and even creating new ones along the way, is part of my daily routine and everyday life.
 
 I am proficient in half a dozen programming languages, including all the major ones like Java, JavaScript, and Python, and I have a keen interest in all things technical, from functional programming languages to system design. As technology continues to evolve, I am committed to staying at the forefront of these fields, continuously exploring new paradigms and contributing to the advancement of the ever-changing software engineering landscape.
 
-Currently, my interests lie in large-scale distributed systems, Big Data, and ML/AI.
+My current interests lie in large-scale distributed systems, Big Data, and ML/AI.
 
 
 
