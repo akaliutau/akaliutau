@@ -3,7 +3,7 @@
 
 [![Generic badge](https://img.shields.io/badge/Name-Aliaksei%20Kaliutau-blue.svg)](https://github.com/akaliutau)
 [![Generic badge](https://img.shields.io/badge/Pronouns-he/him-blue.svg)](https://pronoun.is/he)
-[![Generic badge](https://img.shields.io/badge/Contact%20me-click%20here-blue.svg)](mailto:k5771k@gmail.com)
+[![Generic badge](https://img.shields.io/badge/Contact%20me-click%20here-blue.svg)](mailto:aliaksei.kaliutau@gmail.com)
 
 ---
 
