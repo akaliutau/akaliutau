@@ -1,4 +1,4 @@
-👋 I am Aliaksei, a Software Developer
+👋 I am Aliaksei, a Software Engineer
 ---
 
 [![Generic badge](https://img.shields.io/badge/Name-Aliaksei%20Kaliutau-blue.svg)](https://github.com/akaliutau)
