@@ -7,11 +7,11 @@
 
 ---
 
-My journey to becoming a Software Engineer began with an interest in Computational Physics during my university years, and my passion has grown throughout my studies. Today my interest in Computer Science has become an integral part of my personality — studying, learning new technologies, and even creating new ones along the way, is part of my daily routine and everyday life.
+From simulating physics problems to engineering software solutions, I thrive on pushing the boundaries of computation. My background in Computational Physics fueled my transition to software engineering, where I now focus on leveraging scientific computing, Big Data, and ML/AI to drive breakthroughs in research and bring science fiction concepts to life. 
 
-I am proficient in half a dozen programming languages, including all the major ones like Java, JavaScript, and Python, and I have a keen interest in all things technical, from functional programming languages to system design. As technology continues to evolve, I am committed to staying at the forefront of these fields, continuously exploring new paradigms and contributing to the advancement of the ever-changing software engineering landscape.
+I'm proficient in languages like Python, Java, and JavaScript, and am constantly seeking innovative ways to apply my knowledge to solve complex problems and create novel algorithms. 
 
-My current interests lie in scientific computing, Big Data, and ML/AI.
+I'm not just learning the future; I'm building it.
 
 
 
