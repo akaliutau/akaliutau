@@ -7,11 +7,11 @@
 
 ---
 
-From simulating physics problems to engineering software solutions, I thrive on pushing the boundaries of computation. My background in Computational Physics fueled my transition to software engineering, where I now focus on leveraging scientific computing, Big Data, and ML/AI to drive breakthroughs in research and bring science fiction concepts to life. 
+From simulating physics problems to engineering software solutions, I thrive on pushing the boundaries of computation. My background in Computational Physics motivated me to transition to software engineering, where I now focus on using scientific computing, Big Data, and ML/AI to drive breakthroughs in research and bring science fiction concepts to life. 
 
-I'm proficient in languages like Python, Java, and JavaScript, and am constantly seeking innovative ways to apply my knowledge to solve complex problems and create novel algorithms. 
+I'm proficient in languages like Python, Java, and JavaScript, and am constantly seeking innovative ways to apply my knowledge to solve complex problems and create new technologies. 
 
-I'm not just learning the future; I'm building it.
+I'm not just learning the future tech; I'm building it.
 
 
 
