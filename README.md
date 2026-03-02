@@ -11,7 +11,7 @@ From simulating the stochastic complexity of physical systems to engineering pet
 
 I don't just research future tech; I harden prototypes into secure, scalable, production-ready systems.
 
-💼 **Founder & AI Researcher** — I focus on reliable machine learning, explainable AI, and high-performance computing to solve real-world industrial challenges. [cite: 10] Currently pursuing an MSc in AI at Imperial College London.
+💼 **Founder & AI Researcher** — I focus on reliable machine learning, explainable AI, and high-performance computing to solve real-world industrial challenges. Currently pursuing an MSc in AI at Imperial College London.
 
 🧑‍💻 **Pushing the LLM & Big Data Frontier:** Designed complex multi-step reasoning and tool-use tasks to train advanced LLMs at Scale AI. Previously, as a Software Engineer at Ocado Technology, I pioneered Smart Data Lakes for petabyte-scale bot data. 
 
