@@ -15,11 +15,11 @@ I don't just research future tech; I harden prototypes into secure, scalable, pr
 
 🧑‍💻 **Pushing the LLM & Big Data Frontier:** Designed complex multi-step reasoning and tool-use tasks to train advanced LLMs at Scale AI. Previously, as a Software Engineer at Ocado Technology, I pioneered Smart Data Lakes for petabyte-scale bot data. 
 
-🚀 **Innovating at the Edge of Quantum & MedTech:** Spun off several ventures as the Founder of Stable Reasoning. Built *Aethelgard*, a secure FedRAG framework for distributed health data (evaluated by Google Research in the MedGemma Impact Challenge). I also engineered a Quantum Computing and Genetic Algorithm pipeline achieving 99.7% accuracy for clinical trial patient stratification. 
+🚀 **Innovating at the Edge of Quantum & MedTech:** Spun off several ventures as the Founder of Stable Reasoning. Built *Aethelgard*, a secure FedRAG framework for distributed health data (evaluated by Google Research in the MedGemma Impact Challenge). I also engineered a Quantum Computing and Genetic Algorithm pipeline for clinical trial patient stratification. 
 
 📚 **Published Author & Top 0.1% Problem Solver:** Author of "Autonomous Issue Resolver: Towards Zero-Touch Code Maintenance" [paper](https://arxiv.org/abs/2512.08492). Ranked in the top 0.1% for problem-solving and top 2% in competitions across platforms like LeetCode and Kaggle.
 
-🛠️ **Stack & Expertise:** Proficient in building complex systems using Python, Java, Go, and JavaScript, alongside modern AI frameworks (PyTorch, JAX, GenAI) and scalable infrastructure (Docker, Kubernetes, AWS, GCP).
+🛠️ **Stack & Expertise:** My favourite languages are Python, Java, Go, and JavaScript, I know all modern AI frameworks (PyTorch, JAX, TensorFlow) and specialize in scalable infrastructure (Docker, Kubernetes, AWS, GCP, OCI).
 
 📫 **Let's Connect:** [aliaksei.kaliutau@gmail.com](mailto:aliaksei.kaliutau@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aliaksei-kaliutau/) | [Website](https://akaliutau.github.io)
 
