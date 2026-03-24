@@ -17,7 +17,7 @@ I don't just research future tech; I harden prototypes into secure, scalable, pr
 
 🚀 **Innovating at the Edge of Quantum & MedTech:** Spun off several ventures as the Founder of Stable Reasoning.
 
-📚 **Real Life Problem Solver:** [Autonomous Issue Resolver](https://arxiv.org/abs/2512.08492). Ranked in the top 0.1% for problem-solving and top 2% in competitions across platforms like LeetCode and Kaggle.
+📚 **Real Life Problem Solver:** See my latest [paper](https://arxiv.org/abs/2512.08492). Ranked in the top 0.1% for problem-solving and top 2% in competitions across platforms like LeetCode and Kaggle.
 
 🛠️ **Stack & Expertise:** My favourite languages are Python, Java, Go, and JavaScript, I know all modern AI frameworks (PyTorch, JAX, TensorFlow) and specialize in scalable infrastructure (Docker, Kubernetes, AWS, GCP, OCI).
 
