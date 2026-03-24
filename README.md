@@ -15,9 +15,9 @@ I don't just research future tech; I harden prototypes into secure, scalable, pr
 
 🧑‍💻 **Pushing the LLM & Big Data Frontier:** Designed complex multi-step reasoning and tool-use tasks to train advanced LLMs at Scale AI. Previously, as a Software Engineer at Ocado Technology, I pioneered Smart Data Lakes for petabyte-scale bot data. 
 
-🚀 **Innovating at the Edge of Quantum & MedTech:** Spun off several ventures as the Founder of Stable Reasoning. Built *Aethelgard*, a secure FedRAG framework for distributed health data (evaluated by Google Research in the MedGemma Impact Challenge). I also engineered a Quantum Computing and Genetic Algorithm pipeline for clinical trial patient stratification. 
+🚀 **Innovating at the Edge of Quantum & MedTech:** Spun off several ventures as the Founder of Stable Reasoning.
 
-📚 **Published Author & Top 0.1% Problem Solver:** Author of "Autonomous Issue Resolver: Towards Zero-Touch Code Maintenance" [paper](https://arxiv.org/abs/2512.08492). Ranked in the top 0.1% for problem-solving and top 2% in competitions across platforms like LeetCode and Kaggle.
+📚 **Real Life Problem Solver:** [Autonomous Issue Resolver](https://arxiv.org/abs/2512.08492). Ranked in the top 0.1% for problem-solving and top 2% in competitions across platforms like LeetCode and Kaggle.
 
 🛠️ **Stack & Expertise:** My favourite languages are Python, Java, Go, and JavaScript, I know all modern AI frameworks (PyTorch, JAX, TensorFlow) and specialize in scalable infrastructure (Docker, Kubernetes, AWS, GCP, OCI).
 
