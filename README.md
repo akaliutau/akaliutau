@@ -10,7 +10,7 @@
 From simulating the stochastic complexity of physical systems to engineering petabyte-scale data pipelines, I thrive on pushing the absolute boundaries of computation. My foundation in Physics and Informatics motivated a relentless pursuit of scalable AI, where I now merge scientific computing, big data, and machine learning to bring science fiction concepts to life.
 
 
-💼 **Founder & AI Researcher** — I focus on reliable machine learning, explainable AI, and high-performance computing to solve real-world industrial challenges. MSc in AI at Imperial College London.
+💼 **Founder & AI Researcher** — I focus on reliable machine learning, explainable AI, and high-performance computing to solve real-world industrial challenges. MSc in AI @ Imperial College London.
 
 🧑‍💻 **Pushing the LLM & Big Data Frontier:** Designed complex multi-step reasoning and tool-use tasks to train advanced LLMs at Scale AI. Previously, as a Software Engineer at Ocado Technology, I pioneered Smart Data Lakes for petabyte-scale bot data. 
 
@@ -18,7 +18,7 @@ From simulating the stochastic complexity of physical systems to engineering pet
 
 📚 **Problem Solver:** See my latest [paper](https://arxiv.org/abs/2512.08492). Ranked in the top 0.1% for problem-solving and top 2% in competitions across platforms like LeetCode and Kaggle.
 
-🛠️ **Stack & Expertise:** My favourite languages are Python, Java, Go, and JavaScript, I know all modern AI frameworks (PyTorch, JAX, TensorFlow) and specialize in scalable infrastructure (Docker, Kubernetes, AWS, GCP, OCI).
+🛠️ **Stack & Expertise:** My favourite languages are Python, Java, Go, Rust, and JavaScript, I know all modern AI frameworks (PyTorch, JAX, TensorFlow) and specialize in scalable infrastructure (Docker, Kubernetes, AWS, GCP, OCI).
 
 📫 **Let's Connect:** [aliaksei.kaliutau@gmail.com](mailto:aliaksei.kaliutau@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aliaksei-kaliutau/) | [Website](https://akaliutau.github.io)
 
